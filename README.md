@@ -5,4 +5,4 @@ UI Design by UICookies.. Developed and implemented into an interactive web page 
 
 Producation: https://instant-app-landing-page.netlify.app
 
-![](images/frame.png)
+![](/images/frame.png)
